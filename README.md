@@ -1,5 +1,6 @@
 <h1>Eduardo-Portfolio<h1>
-<ul>
+  <h2>Live Preview: https://eduardodelgado15.github.io/Eduardo-Portfolio/
+    <ul>
   <li> First i went ahead and worked on the navbar.
     <li> I made is so home,about me,projects, and info worked.
       <li> This making it take you to where you decide.
